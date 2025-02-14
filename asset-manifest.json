@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ravline/static/css/main.dc4d6ff2.css",
+    "main.js": "/ravline/static/js/main.baf84b4e.js",
+    "static/js/453.fdd036d8.chunk.js": "/ravline/static/js/453.fdd036d8.chunk.js",
+    "index.html": "/ravline/index.html",
+    "main.dc4d6ff2.css.map": "/ravline/static/css/main.dc4d6ff2.css.map",
+    "main.baf84b4e.js.map": "/ravline/static/js/main.baf84b4e.js.map",
+    "453.fdd036d8.chunk.js.map": "/ravline/static/js/453.fdd036d8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.baf84b4e.js"
+  ]
+}
